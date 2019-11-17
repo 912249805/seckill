@@ -5,6 +5,7 @@ hello master
 
 hello branch1
 
+hello master server
 # 关于
 Java高并发秒杀API
 
