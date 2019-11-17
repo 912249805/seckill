@@ -1,4 +1,4 @@
-hello git
+hello git master
 
 # 关于
 Java高并发秒杀API
