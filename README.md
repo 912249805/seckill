@@ -1,4 +1,5 @@
 hello git
+this is branch2
 
 # 关于
 Java高并发秒杀API
